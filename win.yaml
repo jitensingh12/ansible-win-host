@@ -1,4 +1,4 @@
-- name: Playbook for Windows Host
+- name: Playbook for Windows Host Testing
   hosts: win
   tasks:
     - name: Create a folder
