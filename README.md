@@ -165,4 +165,4 @@ Fire an adhoc command to check connectivity with Windows Host
 ansible win -m win_ping
 ```
 
-You are all set to control your Windows Machine Now!! <br>
+We are all set to control your Windows Machine Now!! <br>
